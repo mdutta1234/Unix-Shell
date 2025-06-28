@@ -1,4 +1,4 @@
-# Unix-Shell-Cpp
+# Linux-Shell-Cpp
 
 Compile using g++ -std=c++17 myshell.cpp -o myshell -lreadline
 
